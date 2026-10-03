@@ -1,7 +1,5 @@
-streamlit
-beautifulsoup4
-pandas
+streamlit>=1.36
 requests
-plotly
-numpy
-urllib3
+beautifulsoup4
+pillow
+pandas
